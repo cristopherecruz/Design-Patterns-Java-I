@@ -1,4 +1,4 @@
-package br.com.cristopher.strategy;
+package br.com.cristopher.strategy.calculadoraimposto;
 
 public class ICMS implements Imposto {
 
