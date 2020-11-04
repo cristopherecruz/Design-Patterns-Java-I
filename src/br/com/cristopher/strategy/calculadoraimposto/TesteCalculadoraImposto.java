@@ -1,6 +1,6 @@
 package br.com.cristopher.strategy.calculadoraimposto;
 
-public class TesteStrategy {
+public class TesteCalculadoraImposto {
 
 	public static void main(String[] args) {
 

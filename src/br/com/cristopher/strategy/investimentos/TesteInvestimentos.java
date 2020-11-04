@@ -1,6 +1,6 @@
 package br.com.cristopher.strategy.investimentos;
 
-public class TesteStrategy {
+public class TesteInvestimentos {
 
 	public static void main(String[] args) {
 
