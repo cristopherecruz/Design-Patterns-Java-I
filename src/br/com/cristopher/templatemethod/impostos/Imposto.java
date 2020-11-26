@@ -1,4 +1,4 @@
-package br.com.cristopher.strategy.calculadoraimposto;
+package br.com.cristopher.templatemethod.impostos;
 
 public interface Imposto {
 
